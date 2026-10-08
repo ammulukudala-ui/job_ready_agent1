@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langserve[server]
+sse-starlette
+python-multipart
+pypdf
+requests
+ddgs
+langchain
+langchain-google-genai
+langchain-community
